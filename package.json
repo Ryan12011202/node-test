@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ryan12011202/node-test/issues"
   },
-  "homepage": "https://github.com/Ryan12011202/node-test#readme"
+  "homepage": "https://github.com/Ryan12011202/node-test#readme",
+  "dependencies": {
+    "@sentry/node": "^7.74.1"
+  }
 }
